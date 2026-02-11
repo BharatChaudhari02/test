@@ -38,3 +38,5 @@ Building "all VS Code functionality" is a very large product effort. This starte
 3. Add split editor groups.
 4. Add Monaco embedding on web for full IntelliSense.
 5. Add LSP bridge (Dart analysis server first).
+
+6. insta it tech
